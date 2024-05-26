@@ -1,2 +1,6 @@
 # my_firsy_repository
-test
+test me again
+- dont cry
+- dont smile
+- just watch me
+
